@@ -1,3 +1,14 @@
+Metadata-Version: 2.1
+Name: cnnClassfier
+Version: 0.0.0
+Summary: A small python package for CNN app
+Home-page: https://github.com/techbeast0/kidney_disease_classification
+Author: techbeast0
+Author-email: nipun9759744800@gmail.com
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/techbeast0/kidney_disease_classification/issues
+Platform: UNKNOWN
+
 # Kidney-Disease-Classification-MLflow-DVC
 
 
@@ -180,5 +191,7 @@ DVC
     AWS_ECR_LOGIN_URI = demo>>  566373416292.dkr.ecr.ap-south-1.amazonaws.com
 
     ECR_REPOSITORY_NAME = simple-app
+
+
 
 
