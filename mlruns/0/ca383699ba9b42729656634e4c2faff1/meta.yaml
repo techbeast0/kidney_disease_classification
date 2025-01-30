@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kulnipun/end_2_end_proj/kidney_disease_classification/mlruns/0/ca383699ba9b42729656634e4c2faff1/artifacts
+end_time: 1738255649495
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ca383699ba9b42729656634e4c2faff1
+run_name: placid-auk-503
+run_uuid: ca383699ba9b42729656634e4c2faff1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738255635405
+status: 3
+tags: []
+user_id: kulnipun
