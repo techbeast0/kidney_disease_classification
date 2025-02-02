@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kulnipun/end_2_end_proj/kidney_disease_classification/mlruns/0/86bb197a94bb4a1daa6f3bb86f7eeb77/artifacts
+end_time: 1738470207371
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 86bb197a94bb4a1daa6f3bb86f7eeb77
+run_name: shivering-carp-41
+run_uuid: 86bb197a94bb4a1daa6f3bb86f7eeb77
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738470194862
+status: 3
+tags: []
+user_id: kulnipun

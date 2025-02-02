@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kulnipun/end_2_end_proj/kidney_disease_classification/mlruns/0/f52a06c69f654ee2a8259db4f0d6519f/artifacts
+end_time: 1738473688854
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f52a06c69f654ee2a8259db4f0d6519f
+run_name: thoughtful-wren-829
+run_uuid: f52a06c69f654ee2a8259db4f0d6519f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738473679812
+status: 3
+tags: []
+user_id: kulnipun
