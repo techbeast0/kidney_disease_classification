@@ -593,3 +593,39 @@ x==========x]
 [2025-02-02 10:51:28,855: INFO: stage_04_model_evaluation: >>>>>> stage Evaluation stage completed <<<<<<
 
 x==========x]
+[2025-02-02 13:32:25,625: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.24.221.182:8080]
+[2025-02-02 13:32:25,629: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2025-02-02 13:33:01,836: INFO: _internal: 127.0.0.1 - - [02/Feb/2025 13:33:01] "GET / HTTP/1.1" 200 -]
+[2025-02-02 13:35:05,609: INFO: _internal: 127.0.0.1 - - [02/Feb/2025 13:35:05] "POST /predict HTTP/1.1" 200 -]
+[2025-02-02 13:35:16,228: INFO: _internal: 127.0.0.1 - - [02/Feb/2025 13:35:16] "POST /predict HTTP/1.1" 200 -]
+[2025-02-02 13:35:22,432: INFO: _internal: 127.0.0.1 - - [02/Feb/2025 13:35:22] "POST /predict HTTP/1.1" 200 -]
+[2025-02-02 13:35:29,591: INFO: _internal: 127.0.0.1 - - [02/Feb/2025 13:35:29] "POST /predict HTTP/1.1" 200 -]
+[2025-02-02 13:35:35,902: WARNING: polymorphic_function: 5 out of the last 5 calls to <function Model.make_predict_function.<locals>.predict_function at 0x7fc98037a3b0> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.]
+[2025-02-02 13:35:35,905: INFO: _internal: 127.0.0.1 - - [02/Feb/2025 13:35:35] "POST /predict HTTP/1.1" 200 -]
+[2025-02-02 13:40:31,251: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.24.221.182:8080]
+[2025-02-02 13:40:31,253: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2025-02-02 13:40:39,147: INFO: _internal: 127.0.0.1 - - [02/Feb/2025 13:40:39] "GET / HTTP/1.1" 200 -]
+[2025-02-02 13:40:39,223: INFO: _internal: 127.0.0.1 - - [02/Feb/2025 13:40:39] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -]
+[2025-02-02 13:40:52,201: INFO: _internal: 127.0.0.1 - - [02/Feb/2025 13:40:52] "GET / HTTP/1.1" 200 -]
+[2025-02-02 13:41:46,030: INFO: _internal: 127.0.0.1 - - [02/Feb/2025 13:41:46] "GET / HTTP/1.1" 200 -]
+[2025-02-02 13:43:05,610: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.24.221.182:5000]
+[2025-02-02 13:43:05,610: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2025-02-02 13:43:13,916: INFO: _internal: 127.0.0.1 - - [02/Feb/2025 13:43:13] "GET / HTTP/1.1" 200 -]
+[2025-02-02 13:43:14,066: INFO: _internal: 127.0.0.1 - - [02/Feb/2025 13:43:14] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -]
+[2025-02-02 13:43:52,105: INFO: _internal: 127.0.0.1 - - [02/Feb/2025 13:43:52] "GET / HTTP/1.1" 200 -]
+[2025-02-02 13:44:11,028: INFO: _internal: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.24.221.182:5000]
+[2025-02-02 13:44:11,028: INFO: _internal: [33mPress CTRL+C to quit[0m]
+[2025-02-02 13:44:21,772: INFO: _internal: 127.0.0.1 - - [02/Feb/2025 13:44:21] "GET / HTTP/1.1" 200 -]
+[2025-02-02 13:44:28,859: INFO: _internal: 127.0.0.1 - - [02/Feb/2025 13:44:28] "POST /predict HTTP/1.1" 200 -]
